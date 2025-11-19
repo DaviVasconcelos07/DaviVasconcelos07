@@ -104,14 +104,6 @@
 
 ---
 
-## 📌 Projetos em destaque
-*(Adicione aqui quando quiser alguns dos seus repositórios mais legais)*  
-- 🔹 **Nome do Projeto 1** — descrição curta  
-- 🔹 **Nome do Projeto 2** — descrição curta  
-- 🔹 **Nome do Projeto 3** — descrição curta  
-
----
-
 ## 📫 Como me encontrar
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davilucenavasconcelos)  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davilucenana@gmail.com)  
