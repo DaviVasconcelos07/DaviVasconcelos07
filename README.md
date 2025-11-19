@@ -1,12 +1,11 @@
 # 👋 Olá! Eu sou **Davi**
 
-🎓 Estudante de **Ciência da Computação** na **UFCG**  
-💻 Apaixonado por resolver problemas, construir projetos úteis e aprender novas tecnologias.  
-🚀 Interessado em desenvolvimento, sistemas distribuídos, IA e boas práticas de software.
-
 ---
 
 ## 🧠 Sobre mim
+-🎓 Estudante de **Ciência da Computação** na **UFCG**  
+-💻 Apaixonado por resolver problemas, construir projetos úteis e aprender novas tecnologias.  
+-🚀 Interessado em desenvolvimento, sistemas distribuídos, IA e boas práticas de software.
 - 📚 Atualmente aprofundando meus estudos em **algoritmos**, **estrutura de dados** e **desenvolvimento full stack**  
 - 🔍 Sempre buscando entender **como as coisas funcionam por baixo dos panos**  
 - 🤝 Gosto de colaborar, revisar código e melhorar projetos continuamente  
@@ -17,8 +16,6 @@
 ## 🔧 Tecnologias que estudo e utilizo
 
 <div align="left">
-
----
 
 ### 🧩 Linguagens
 
