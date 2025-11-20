@@ -4,10 +4,8 @@
 
 ## 🧠 Sobre mim
 - 🎓 Estudante de **Ciência da Computação** na **UFCG**  
-- 💻 Apaixonado por resolver problemas, construir projetos úteis e aprender novas tecnologias.  
 - 🚀 Interessado em desenvolvimento, sistemas distribuídos, IA e boas práticas de software.
-- 📚 Atualmente aprofundando meus estudos em **algoritmos**, **estrutura de dados** e **desenvolvimento full stack**  
-- 🔍 Sempre buscando entender **como as coisas funcionam por baixo dos panos**  
+- 📚 Atualmente aprofundando meus estudos em **algoritmos**, **estrutura de dados** e **desenvolvimento full stack**    
 - 🤝 Gosto de colaborar, revisar código e melhorar projetos continuamente  
 - 🧪 Trabalhando em projetos pessoais para evoluir minhas habilidades e criar um bom portfólio  
 
